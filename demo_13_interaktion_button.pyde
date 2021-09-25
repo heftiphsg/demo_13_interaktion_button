@@ -10,4 +10,4 @@ def draw():
     else:
         fill (60, 60, 60)
         
-    rect(x, y, 200, 50)
+    rect(x, y, 200, 100)
