@@ -6,7 +6,7 @@ def setup():
     
 def draw():
     if mouseX >= x and mouseX <= x + 200 and mouseY >= y and mouseY <= y + 50 and mousePressed == True:
-        fill(255, 0, 0)
+        fill(0, 255, 0)
     else:
         fill (60, 60, 60)
         
